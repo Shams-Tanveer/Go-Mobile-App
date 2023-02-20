@@ -1,4 +1,4 @@
-# ridetripper
+# Go-App
 
 A new Flutter project.
 
